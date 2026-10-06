@@ -1,0 +1,8 @@
+{
+  "name": "Remix PromoRadar Pro — Automação Multi-Marketplace (Shopee, Amazon \u0026 Mercado Livre)",
+  "description": "Plataforma de alta segurança para automação de ofertas e achadinhos da Shopee, Amazon e Mercado Livre no WhatsApp com links de afiliados oficiais e motor anti-bloqueio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
